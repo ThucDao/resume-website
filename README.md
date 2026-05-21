@@ -22,7 +22,7 @@ This section outlines my professional career history, core responsibilities, and
 ### 🎓 2. Education & Skill Matrix (`education.html`)
 A comprehensive look at my academic foundations, self-driven achievements, and a practical technical self-assessment matrix:
 * **Academic Credentials:**  
-  Features postgraduate certifications in *Business Analytics* and *I.T. Business Analysis* from Cambrian College (Sudbury, Canada), as well as an Engineering degree from Ho Chi Minh City University of Technology.
+  Features postgraduate certifications in *Business Analytics* and *I.T. Business Analysis* from Cambrian College (Sudbury, Ontario, Canada), as well as an Engineering degree from Ho Chi Minh City University of Technology (Vietnam).
 * **Independent Projects:**  
   Highlights early foundational data projects, including building a custom budget-reporting system and compiling an internal *Dictionary of English Affixes and Combining Forms*.
 * **Core Competencies:**  
