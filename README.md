@@ -1,10 +1,10 @@
-# My Digital Portfolio & Resume Webpage
+# My Digital Portfolio & Resume Website
 
 Welcome to my personal portfolio and resume website! Designed to be entirely clean, professional, and fully responsive for optimal viewing on both desktop screens and mobile phones. 
 
 This repository functions as my comprehensive profile, structuring my career path, academic background, technical analytics skillset, and creative interests into an accessible digital hub.
 
-**Live Website:** [https://thucdao.github.io/resume-webpage/](https://thucdao.github.io/resume-webpage/)
+**Live Website:** [https://thucdao.github.io/resume-website/](https://thucdao.github.io/resume-website/)
 
 ---
 
